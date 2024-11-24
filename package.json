@@ -1,0 +1,61 @@
+{
+  "name": "findyourfriend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+<<<<<<< HEAD
+    "dev": "next dev --turbopack",
+=======
+    "dev": "next dev",
+>>>>>>> 2eceac2839bcf6d203e5c187be50168fc31fc72c
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "@radix-ui/react-collection": "^1.1.0",
+    "@radix-ui/react-dialog": "^1.1.2",
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-roving-focus": "^1.1.0",
+=======
+    "@radix-ui/react-dialog": "^1.1.2",
+    "@radix-ui/react-label": "^2.1.0",
+>>>>>>> 2eceac2839bcf6d203e5c187be50168fc31fc72c
+    "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-tabs": "^1.1.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+<<<<<<< HEAD
+    "lucide-react": "^0.454.0",
+    "mongoose": "^8.8.2",
+    "next": "15.0.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+=======
+    "lucide-react": "^0.460.0",
+    "next": "14.2.18",
+    "react": "^18",
+    "react-dom": "^18",
+>>>>>>> 2eceac2839bcf6d203e5c187be50168fc31fc72c
+    "recharts": "^2.13.3",
+    "tailwind-merge": "^2.5.4",
+    "tailwindcss-animate": "^1.0.7",
+    "vaul": "^1.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+<<<<<<< HEAD
+    "eslint-config-next": "15.0.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  },
+  "overrides": {
+    "react-is": "^19.0.0-rc-69d4b800-20241021"
+=======
+    "eslint-config-next": "14.2.18",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+>>>>>>> 2eceac2839bcf6d203e5c187be50168fc31fc72c
+  }
+}
